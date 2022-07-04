@@ -13,7 +13,7 @@ Current stock analysis code is taking longer (~40-50 seconds) to run when ran on
 
 #### 2017
 
-![alt text](https://github.com/hemalis/VBA_challenge/blob/main/resources/analysis_images/img1.png?raw=true)
+![alt text](https://github.com/hemalis/VBA_challenge/blob/main/Resources/analysis_images/img1.png?raw=true)
 
 As shown above, Stock market gave huge return on most of these 12 stocks during 2017. 
 
@@ -24,7 +24,7 @@ As shown above, Stock market gave huge return on most of these 12 stocks during 
 
 #### 2018
 
-![alt text](https://github.com/hemalis/VBA_challenge/blob/main/resources/analysis_images/img2.png?raw=true)
+![alt text](https://github.com/hemalis/VBA_challenge/blob/main/Resources/analysis_images/img2.png?raw=true)
 
 As shown above, Stock market had bad year for these 12 stocks during 2018. 2 out of 12 provided positive return compared to start of the year. They are ENPH and RUN. 
 
